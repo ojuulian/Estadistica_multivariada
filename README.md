@@ -1,2 +1,5 @@
-# Estadistica_multivariada
-Generar código referente a Estadística multivariada 
+# Estadística multivariada y Análisis multivariado
+
+La Estadística multivariada es la rama de la Estadística que involucra la observación y el análisis de tipo simultáneo de más de una variable respuesta, las técnicas multivariadas permiten establecer, a partir de numerosos datos y variables, ciertas relaciones, investigar estructuras latentes y ensayar diversas maneras de organizar dichos datos, muchas veces transformándolos y presentándolos bajo una forma nueva más asequible, usando diversos procedimientos con base a supuestos distribucionales.
+
+Cada dia surgen nuevas metodologías para el análisis de información conjunta permitiendo tomar desiciones en base a las metodologias existentes, algunas son ACP, ACS, ACM, y otras como la clasificación supervisada y la no supervisada, análisis discriminante, entre otras.  Actualmente la teoría está soportada en la álgebra matricial la cual permite un desarrollo propio de la Estadística descriptiva hasta la inferencial, asi mismo la manipulación de diversos algoritmos que pueden ser llevados a lo computacional de forma muy rápida.   
