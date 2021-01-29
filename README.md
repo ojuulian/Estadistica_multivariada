@@ -47,11 +47,10 @@ R y Python 3.7
 1. [R tablas de contingencia.](./ACP_ACS_ACM/R_tablas_de_contingencia.ipynb)
 
 
-<h2 align="center">Estadística multivariada (cáncer de mama en el estado de Wisconsil)</h2>
-<h2 align="center"></h2>
+<h1 align="center">Estadística multivariada (cáncer de mama en el estado de Wisconsil)</h1>
+<h1 align="center"></h1>
 
 
-<h2 align='center'> Contenido</h2>
 
 <h3>  Estadística multivariada </h3>
 
@@ -72,7 +71,7 @@ R y Python 3.7
 ---
 
 
-<h3>Referencias</h3>
+<h1>Referencias</h1>
 
 1.  Brockwell, P. J., Davis, R. A., & Fienberg, S. E. (1991). Time series: theory and methods: theory and methods. Springer Science & Business Media.
 
